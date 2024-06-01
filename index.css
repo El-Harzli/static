@@ -99,6 +99,9 @@
         --fs-200 : 0.55rem;
         --fs-100 : 0.5rem;
     } */
+    section > *{
+        background-color: red;
+    }
 
 }
 
