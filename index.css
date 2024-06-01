@@ -88,7 +88,7 @@
 
 
 @media (max-width :768px) {
-    :root{
+    /* :root{
         --fs-900 : 2.5rem;
         --fs-800 : 1.8rem;
         --fs-700 : 1.35rem;
@@ -98,7 +98,7 @@
         --fs-300 : 0.65rem;
         --fs-200 : 0.55rem;
         --fs-100 : 0.5rem;
-    }
+    } */
 
 }
 
